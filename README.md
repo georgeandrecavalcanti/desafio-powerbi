@@ -30,8 +30,10 @@ Gráfico de pizza que apresenta a participação percentual de cada segmento no 
 
 ## Arquivos do projeto
 
-- `Desafio_PowerBI.pdf` — relatório exportado para visualização.
-- `Desafio_PowerBI.pbix` — projeto editável do Power BI, caso disponibilizado no repositório.
+## Arquivos do projeto
+
+- [📄 Visualizar relatório em PDF](relatorio/Desafio_PowerBI.pdf)
+- [📊 Baixar projeto editável do Power BI (.pbix)](relatorio/Desafio_PowerBI.pbix)
 
 ## Observação
 
